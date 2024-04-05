@@ -2,90 +2,90 @@
   "basics": {
     "name": "Ahmad Saugi",
     "label": "Software Engineer",
-    "image": "https://github.com/zuramai/resume/blob/main/src/images/photo.jpg?raw=true",
-    "email": "saugi.dev@gmail.com",
-    "url": "https://saugi.me",
-    "summary": "My name is Ahmad Saugi, a bachelor of computer science student. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in experience, architecture, and code quality of the things I build.\n\nI am also an open-source enthusiast and maintainer. I love how collaboration and knowledge sharing happens through open-source and I am happy to see what I do could eventually feedback to the community and industry.",
+    "image": "-",
+    "email": "rizkyzaki682@gmail.com",
+    "url": "https://zach.me",
+    "summary": "My name is Rizky Zaki, a software engineer with a background in information systems. My passion for software lies in conceptualizing ideas and bringing them to life through elegant interfaces. I prioritize user experience, architectural integrity, and code quality in all my projects.\n\nI am deeply involved in the open-source community as both an enthusiast and a maintainer. The collaborative nature and knowledge-sharing aspect of open-source development resonate with me greatly. Witnessing the impact of my contributions reverberating throughout the community and industry brings me immense joy and satisfaction..",
     "location": {
       "countryCode": "ID",
       "region": "Indonesia"
     },
     "profiles": [
       {
-        "text": "zuramai",
+        "text": "zach",
         "network": "github",
-        "username": "zuramai",
-        "url": "https://github.com/zuramai"
+        "username": "RizkyZaki",
+        "url": "https://github.com/RizkyZaki"
       },
       {
-        "text": "https://linkedin.com/in/ahmad-saugi",
+        "text": "https://www.linkedin.com/in/rizkyzaki/",
         "network": "linkedin",
-        "username": "ahmad-saugi",
-        "url": "https://linkedin.com/in/ahmad-saugi"
+        "username": "rizkyzaki",
+        "url": "https://www.linkedin.com/in/rizkyzaki/"
       },
       {
-        "text": "asawgi",
+        "text": "todayis_zch",
         "network": "instagram",
-        "username": "asawgi",
-        "url": "https://instagram.com/asawgi"
+        "username": "todayis_zch",
+        "url": "https://instagram.com/todayis_zch"
       },
       {
-        "text": "saugi.me",
+        "text": "zach.me",
         "network": "portfolio",
-        "username": "saugi.me",
-        "url": "https://saugi.me"
+        "username": "zach.me",
+        "url": "https://zach.me"
       }
     ]
   },
   "work": [
     {
-      "name": "Open Source",
-      "position": "OSS Developer",
-      "url": "https://github.com/zuramai",
-      "startDate": "Apr 2020",
+      "name": "PT. Pratama Solusi Teknologi",
+      "position": "Software Engineer",
+      "url": "https://github.com/RizkyZaki",
+      "startDate": "May 2023",
       "endDate": "Present",
       "summary": "",
-      "location": "Github",
+      "location": "Purwakarta, Indonesia",
       "highlights": [
-        "Received 3000+ stars on personal projects.",
-        "Mantaining numerous projects on Github",
-        "Actively contribute to the open source community",
-        "Main tech stacks: Vue, React, Nuxt, Next.js, TypeScript, Rust"
+        "Developed Some Project For Smart City.",
+        "Developed Rest API To Android APP",
+        "Actively Maintenance to web app actively",
+        "Main tech stacks: Laravel, JS, JSON, Flutter, Dart, PHP"
       ]
     },
     {
-      "name": "PT Solusi Intek Indonesia",
-      "position": "Web Developer Intern",
-      "url": "https://intek.co.id/",
-      "startDate": "Jan 2019",
-      "endDate": "Apr 2019",
+      "name": "Central Computer Improvement ORG",
+      "position": "Fullstack Developer",
+      "url": "https://www.cciunitel.com/",
+      "startDate": "Dec 2023",
+      "endDate": "Present",
       "summary": "",
-      "location": "Bekasi, Indonesia",
+      "location": "Bandung, Indonesia",
       "highlights": [
-        "Developed a web application (WhatsappBot App) with Python Flask",
-        "Developed a fullstack face recognition app for school",
-        "Tech stacks:  Python, Laravel, Vue, Golang, MongoDB, PostgreSQL, and Redis"
+        "Developed a web application of Organization",
+        "Work Team with member of CCI",
+        "Tech stacks:  JS, NextJS, Tailwind, Rest API, Django"
       ]
     }
   ],
   "education": [
     {
-      "institution": "Binus University",
-      "url": "https://binus.ac.id/",
-      "area": "Computer Science",
-      "studyType": "Bachelor of Science",
-      "startDate": "2020",
-      "endDate": "2024",
+      "institution": "Telkom University",
+      "url": "https://telkomuniversity.ac.id/",
+      "area": "Information System",
+      "studyType": "Bachelor of Information System",
+      "startDate": "2023",
+      "endDate": "2027",
       "score": "",
       "courses": []
     },
     {
-      "institution": "SMKN 10 Jakarta",
-      "url": "https://binus.ac.id/",
+      "institution": "SMKS Bina Kerja",
+      "url": "https://smkbinakerjapwk.sch.id/",
       "area": "Software Engineering",
       "studyType": "Vocational High School",
-      "startDate": "2017",
-      "endDate": "2020",
+      "startDate": "2020",
+      "endDate": "2023",
       "score": "",
       "courses": []
     }
@@ -93,26 +93,22 @@
   "volunteer": [],
   "awards": [
     {
-      "title": "2nd Place in WorldSkills ASEAN Singapore 2023 Web Technologies",
-      "date": "Jul 2023",
-      "awarder": "WorldSkills International",
+      "title": "5th Place in LKS Province Web Technologies",
+      "date": "2022",
+      "awarder": "Ministry of Education Indonesia",
       "highlights": [
-        "Speedtest Module: complete several small task (CSS animation, PHP calendar, etc)",
-        "CMS Wordpress Module: create theme (recipe website) and rating plugin in 3 hours",
-        "Server-side Module: create football tournament website (with matchmaking algorithm)",
-        "Client-side Module: create interactive quiz game with pure JavaScript in 3 hours"
+        "CMS Wordpress Module (create theme and plugins)",
+        "Server-side Module (using Laravel and VueJS)",
+        "Client-side Module (create HTML5 game)"
       ],
       "summary": ""
     },
     {
-      "title": "1st Place in LKS National Competition (Web Technologies) 2020",
-      "date": "Oct 2021",
+      "title": "1st Place in LKS District Web Technologies",
+      "date": "Jun 2022",
       "awarder": "Ministry of Education Indonesia",
       "highlights": [
-        "Speedtest Module (complete several small tasks) in 2 hours",
-        "CMS Wordpress Module (create theme and plugins) in 2 hours",
-        "Server-side Module (using Laravel and VueJS) in 5 hours",
-        "Client-side Module (create HTML5 game) in 4 hours"
+        "Developed a Ecommerce Website With Laravel",
       ],
       "summary": ""
     }
@@ -123,25 +119,25 @@
     {
       "name": "Frontend",
       "level": "",
-      "keywords": ["Typescript", "Javascript", "React", "Vue", "Nuxt", "Next.js"]
+      "keywords": ["Typescript", "Javascript", "React", "Vue", "Next.js"]
     },
     {
       "name": "Backend",
       "level": "",
       "keywords": [
         "Laravel",
-        "Go",
-        "Rust",
+        "Python",
         "Wordpress",
         "PostgreSQL",
-        "Redis",
+        "MySQL",
+        "Express",
         "MongoDB"
       ]
     },
     {
       "name": "Languages",
       "level": "",
-      "keywords": ["PHP", "Go", "Javascript", "TypeScript", "Rust"]
+      "keywords": ["PHP", "Dart", "Javascript", "TypeScript", "Python"]
     }
   ],
   "languages": [
@@ -163,65 +159,65 @@
   "references": [],
   "projects": [
     {
-      "name": "Mazer Dashboard Template",
-      "description": "Clean, Modern, Free, and Open-source Bootstrap 5 Admin Dashboard Template",
+      "name": "Find Person",
+      "description": "Consume API Public in Next JS",
       "highlights": [],
       "keywords": [
-        "bootstrap",
-        "template",
-        "dashboard",
-        "admin-dashboard",
+        "API",
+        "next",
+        "find",
+        "finc-person",
         "free-template"
       ],
-      "startDate": "Jan 2021",
+      "startDate": "Jan 2023",
       "endDate": "Currently maintaining",
-      "githubUrl": "https://github.com/zuramai/mazer",
-      "url": "https://zuramai.github.io/mazer",
+      "githubUrl": "https://github.com/RizkyZaki/find-person",
+      "url": "https://find-person.vercel.app/",
       "roles": ["Owner & Maintainer"],
       "type": "application",
       "entity": ""
     },
     {
-      "name": "Voler Admin Dashboard",
-      "description": "The First Bootstrap 5 Admin Dashboard Template",
+      "name": "Singkat.in",
+      "description": "The url shortener Easy Use",
       "highlights": [],
       "keywords": [
-        "bootstrap",
-        "template",
-        "dashboard",
-        "admin-dashboard",
-        "free-template"
+        "Tailwind",
+        "shadcn",
+        "next",
+        "short",
+        "url-short"
       ],
-      "startDate": "Aug 2021",
+      "startDate": "Jan 2024",
       "endDate": "Currently maintaining",
-      "githubUrl": "https://github.com/zuramai/voler",
-      "url": "https://zuramai.github.io/voler/",
+      "githubUrl": "https://github.com/zuramai/singkat.in",
+      "url": "https://singkat.in",
       "roles": ["Owner & Maintainer"],
       "type": "application",
       "entity": ""
     },
     {
-      "name": "Starback.js",
-      "description": "Create a beautiful star falling background with starback.js",
+      "name": "Aling Globe",
+      "description": "Website Course Language include LMS Dashboard",
       "highlights": [],
-      "keywords": ["canvas", "css-animation", "background-animation"],
-      "startDate": "Aug 2021",
+      "keywords": ["course", "lms", "course-language"],
+      "startDate": "Nov 2023",
       "endDate": "Currently maintaining",
-      "githubUrl": "https://github.com/zuramai/starback.js",
-      "url": "https://zuramai.github.io/starback.js",
-      "roles": ["Owner & Maintainer"],
+      "githubUrl": "https://github.com/zuramai/alingglobe",
+      "url": "https://alingglobe.com",
+      "roles": ["Developer & Maintainer"],
       "type": "application",
       "entity": ""
     },
     {
-      "name": "Hugoblog",
-      "description": "Hugoblog is responsive, simple, and clean that very fit for your personal blog based on Hugo Theme Static Site Generator (SSG)",
+      "name": "Govote",
+      "description": "govote is a vote generating application with an admin dashboard to manage voting",
       "highlights": [],
-      "keywords": ["canvas", "css-animation", "background-animation"],
-      "startDate": "Mar 2021",
+      "keywords": ["voting", "free-vote", "govote"],
+      "startDate": "Feb 2024",
       "endDate": "Currently maintaining",
-      "githubUrl": "https://github.com/zuramai/hugoblog",
-      "url": "https://zuramai.github.io/hugoblog",
+      "githubUrl": "https://github.com/zuramai/govote",
+      "url": "https://govote.com",
       "roles": ["Owner & Maintainer"],
       "type": "application",
       "entity": ""
