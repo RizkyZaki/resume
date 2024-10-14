@@ -54,6 +54,20 @@
       ]
     },
     {
+      "name": "80&Company",
+      "position": "Fullstack Developer",
+      "url": "https://github.com/RizkyZaki",
+      "startDate": "Sept 2024",
+      "endDate": "Present",
+      "summary": "",
+      "location": "Remote, Japan",
+      "highlights": [
+        "Developed Some Project For Japan Client.",
+        "Developed Fullstack Web and integrated with AI",
+        "Main tech stacks: Laravel, JS, JSON, Docker, PHP"
+      ]
+    },
+    {
       "name": "Central Computer Improvement ORG",
       "position": "Fullstack Developer",
       "url": "https://www.cciunitel.com/",
@@ -92,6 +106,16 @@
   ],
   "volunteer": [],
   "awards": [
+    {
+      "title": "Best Product at CCI the hack",
+      "date": "2024",
+      "awarder": "CCI",
+      "highlights": [
+        "Lead Team",
+        "Develop Scan plant diseases",
+      ],
+      "summary": ""
+    },
     {
       "title": "5th Place in LKS Province Web Technologies",
       "date": "2022",
