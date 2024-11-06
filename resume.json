@@ -41,7 +41,7 @@
     {
       "name": "PT. Pratama Solusi Teknologi",
       "position": "Software Engineer",
-      "url": "https://github.com/RizkyZaki",
+      "url": "https://pratamatechsolution.co.id/",
       "startDate": "May 2023",
       "endDate": "Present",
       "summary": "",
@@ -56,7 +56,7 @@
     {
       "name": "80&Company",
       "position": "Fullstack Developer",
-      "url": "https://github.com/RizkyZaki",
+      "url": "https://80and.co/en",
       "startDate": "Sept 2024",
       "endDate": "Present",
       "summary": "",
@@ -68,8 +68,23 @@
       ]
     },
     {
-      "name": "Central Computer Improvement ORG",
-      "position": "Fullstack Developer",
+      "name": "Mobile Innovation Laboratory",
+      "position": "Mobile Developer",
+      "url": "https://motionlaboratory.com/",
+      "startDate": "Nov 2024",
+      "endDate": "Present",
+      "summary": "",
+      "location": "Bandung, Indonesia",
+      "highlights": [
+          "Developed Mobile Applications for Various Clients.",
+          "Specialized in Fullstack Mobile Development with Flutter & Dart.",
+          "Integrated AI and API functionalities into Mobile Apps.",
+          "Main tech stacks: Flutter, Dart, Firebase, REST APIs, JSON"
+      ]
+    },
+    {
+      "name": "Central Computer Improvement",
+      "position": "Web Developer",
       "url": "https://www.cciunitel.com/",
       "startDate": "Dec 2023",
       "endDate": "Present",
@@ -78,7 +93,7 @@
       "highlights": [
         "Developed a web application of Organization",
         "Work Team with member of CCI",
-        "Tech stacks:  JS, NextJS, Tailwind, Rest API, Django"
+        "Main tech stacks:  JS, NextJS, Tailwind, Rest API, Django"
       ]
     }
   ],
