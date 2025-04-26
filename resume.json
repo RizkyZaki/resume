@@ -12,7 +12,7 @@
     },
     "profiles": [
       {
-        "text": "zach",
+        "text": "RizkyZaki",
         "network": "github",
         "username": "RizkyZaki",
         "url": "https://github.com/RizkyZaki"
@@ -43,7 +43,7 @@
       "position": "Software Engineer",
       "url": "https://pratamatechsolution.co.id/",
       "startDate": "May 2023",
-      "endDate": "Present",
+      "endDate": "Apr 2025",
       "summary": "",
       "location": "Purwakarta, Indonesia",
       "highlights": [
@@ -55,31 +55,44 @@
     },
     {
       "name": "80&Company",
-      "position": "Fullstack Developer",
+      "position": "QA Engineer",
       "url": "https://80and.co/en",
       "startDate": "Sept 2024",
-      "endDate": "Present",
+      "endDate": "Jan 2025",
+      "summary": "",
+      "location": "Remote, Japan",
+      "highlights": [
+        "Design, develop, and execute automated test scripts using Selenium WebDriver.",
+        "Perform manual and automated testing to identify bugs, performance issues, and usability problems.",
+        "Main tech stacks: Selenium, Jenkins, JSON, Docker, PHP"
+      ]
+    },
+    {
+      "name": "OCT-Path",
+      "position": "Fullstack Developer",
+      "url": "https://oct-path.io/en",
+      "startDate": "Jan 2024",
+      "endDate": "Sept 2024",
       "summary": "",
       "location": "Remote, Japan",
       "highlights": [
         "Developed Some Project For Japan Client.",
-        "Developed Fullstack Web and integrated with AI",
+        "Develop and maintain responsive web applications using modern front-end and back-end technologies.",
         "Main tech stacks: Laravel, JS, JSON, Docker, PHP"
       ]
     },
     {
-      "name": "Mobile Innovation Laboratory",
-      "position": "Mobile Developer",
-      "url": "https://motionlaboratory.com/",
-      "startDate": "Nov 2024",
-      "endDate": "Present",
+      "name": "Erines",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "Aug 2024",
+      "endDate": "Sept 2024",
       "summary": "",
-      "location": "Bandung, Indonesia",
+      "location": "Remote, Japan",
       "highlights": [
-          "Developed Mobile Applications for Various Clients.",
-          "Specialized in Fullstack Mobile Development with Flutter & Dart.",
-          "Integrated AI and API functionalities into Mobile Apps.",
-          "Main tech stacks: Flutter, Dart, Firebase, REST APIs, JSON"
+        "Developed Some Project For Japan Client.",
+        "Develop and maintain responsive web applications using modern front-end and back-end technologies.",
+        "Main tech stacks: JS, JSON, Docker, PHP"
       ]
     },
     {
@@ -87,7 +100,7 @@
       "position": "Web Developer",
       "url": "https://www.cciunitel.com/",
       "startDate": "Dec 2023",
-      "endDate": "Present",
+      "endDate": "Jan 2025",
       "summary": "",
       "location": "Bandung, Indonesia",
       "highlights": [
@@ -148,6 +161,15 @@
       "awarder": "Ministry of Education Indonesia",
       "highlights": [
         "Developed a Ecommerce Website With Laravel"
+      ],
+      "summary": ""
+    }
+    {
+      "title": "Finalist Cyvero 2024",
+      "date": "Dec 2024",
+      "awarder": "Lab SAG Telkom University",
+      "highlights": [
+        ""
       ],
       "summary": ""
     }
